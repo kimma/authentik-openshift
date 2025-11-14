@@ -1,4 +1,4 @@
-ARG VERSION=2025.10
+ARG VERSION=2025.10.1
 
 FROM harbor.apps.ecloud.guiltyspark.net/ghcrio/goauthentik/server:${VERSION}
 
